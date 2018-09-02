@@ -28,7 +28,7 @@ dependencies:
 library:
   source-dirs:
   - ch09
-  - src
+  - ch10
 
 executables:
   real-world-exe:
