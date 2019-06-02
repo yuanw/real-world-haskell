@@ -23,11 +23,13 @@ dependencies:
 - base >= 4.7 && < 5
 - directory
 - filepath
+- stm
 - time
 
 library:
   source-dirs:
   - ch09
+  - ch28
   - src
 
 executables:
